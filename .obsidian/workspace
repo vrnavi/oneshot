@@ -7,11 +7,8 @@
         "id": "c012622f84c8aab9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/docs/Discord Server/Bar Channel Rules/_index.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/docs/Discord Server/Bar Channel Rules/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
