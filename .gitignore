@@ -1,0 +1,5 @@
+.github/
+.obsidian/
+.DS_Store
+.gitmodules
+.hugo_build.lock
