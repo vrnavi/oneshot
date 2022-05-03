@@ -1,7 +1,7 @@
 baseURL = 'https://wistlyr.github.io/oneshot'
 languageCode = 'en-us'
 title = 'OneShot Discord'
-theme = "hugo-book"
+theme = ["hugo-redirect", "hugo-book"]
 enableEmoji = true
 
 # (Optional) Set this to true if you use capital letters in file names
