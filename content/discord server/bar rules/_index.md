@@ -1,5 +1,5 @@
 ---
-title: Bar Channel Rules
+title: Bar Rules
 type: docs
 ---
 

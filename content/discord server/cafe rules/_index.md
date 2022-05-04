@@ -1,5 +1,5 @@
 ---
-title: Cafe Channel Rules
+title: Cafe Rules
 type: docs
 ---
 
