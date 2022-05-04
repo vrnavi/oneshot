@@ -11,6 +11,7 @@ Fan content is, obviously, not made by the OneShot developers. Please exercise c
 {{< /hint >}}
 
 {{< details "FNF' VS Niko" >}}
+
 ## FNF' VS Niko
 *"The messiah is on their pilgrimage to the tower, but in this instance... something is different..."*
 
@@ -20,6 +21,7 @@ Fan content is, obviously, not made by the OneShot developers. Please exercise c
 {{< /details >}}
 
 {{< details "Oneshot: Dreaded Return" >}}
+
 ## Oneshot: Dreaded Return
 *"Niko returns to the world of Oneshot, time has passed and something is terribly wrong..."*
 
@@ -28,6 +30,7 @@ Fan content is, obviously, not made by the OneShot developers. Please exercise c
 {{< /details >}}
 
 {{< details "OneShot: Fading Memory" >}}
+
 ## OneShot: Fading Memory
 *"Some time after (or before?) solstice, Niko returns to an uncannily familiar world, with a new villain and a seemingly broken TWM."*
 
