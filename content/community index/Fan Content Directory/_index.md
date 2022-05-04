@@ -12,7 +12,7 @@ Fan content is, obviously, not made by the OneShot developers. Please exercise c
 
 {{< details "FNF' VS Niko" >}}
 ## FNF' VS Niko
-"The messiah is on their pilgrimage to the tower, but in this instance... something is different..."
+*"The messiah is on their pilgrimage to the tower, but in this instance... something is different..."*
 
 [GameBanana Page](https://gamebanana.com/wips/63088)
 
