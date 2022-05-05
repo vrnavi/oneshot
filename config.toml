@@ -1,4 +1,4 @@
-baseURL = 'https://wistlyr.github.io/oneshot'
+baseURL = 'https://oneshot.netescape.org'
 languageCode = 'en-us'
 title = 'OneShot Discord'
 theme = "hugo-book"
