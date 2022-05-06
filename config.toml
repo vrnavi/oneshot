@@ -1,7 +1,8 @@
 baseURL = 'https://oneshot.netescape.org'
 languageCode = 'en-us'
+defaultContentLanguage = 'en'
 title = 'OneShot Discord'
-theme = "hugo-book"
+theme = 'hugo-book'
 enableEmoji = true
 
 # (Optional) Set this to true if you use capital letters in file names
@@ -67,5 +68,19 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   description = 'An external site hosted for the OneShot Discord Server.'
   title = 'OneShot External Site'
+
 [taxonomies]
   series = 'series'
+
+[languages]
+  [languages.en]
+    title = 'OneShot Discord'
+    languageName = 'English'
+    weight = 2
+  [languages.ru]
+    title = 'OneShot Discord'
+    languageName = 'Русский'
+    weight = 1
+    [languages.ru.params]
+      title = 'Внешний сайт OneShot'
+      description = 'Внешний сайт, размещенный для Discord сервера OneShot.'
