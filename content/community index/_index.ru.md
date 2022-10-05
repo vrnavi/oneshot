@@ -1,4 +1,0 @@
----
-title: Сообщество
-bookFlatSection: true
----
