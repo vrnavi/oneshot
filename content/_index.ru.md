@@ -10,6 +10,6 @@ type: docs
 
 Хотите что-то добавить или изменить? Проверьте наш [репозиторий на GitHub](https://github.com/wistlyr/oneshot/)!
 
-Сделано с :heart: и размещено `@wistlyr#6900` на [`NETeSCAPE`](https://netescape.org/).
+Сделано с :heart: и размещено [`@wistlyr#6900`](https://whistler.page).
 
 Перевод на Русский выполнил `@hat_kid#8773`.
