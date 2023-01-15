@@ -3,8 +3,9 @@ title: Home
 type: docs
 ---
 
-# Welcome to OSES
+# Welcome to the OneShot Discord External Site
 
-This site is for the express purpose of acting as an extension to the OneShot Discord Server. It also acts as a hub for community made content, so check back often! Want to add or change something? Check out the GitHub repo!
+This site is for the express purpose of acting as an extension to the OneShot Discord Server.
+Want to add or change something? Check out the GitHub repository!
 
-Made with :heart: and hosted by [`@wistlyr#6900`](https://whistler.page).
+Made with :heart: and hosted by [`@renavi#6900`](https://whistler.page).

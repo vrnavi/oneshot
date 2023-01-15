@@ -1,4 +1,4 @@
-baseURL = 'https://oneshot.netescape.org'
+baseURL = 'https://oneshot.whistler.page'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 title = 'OneShot Discord'
@@ -67,7 +67,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookComments = false
 
   description = 'An external site hosted for the OneShot Discord Server.'
-  title = 'OneShot External Site'
+  title = 'OneShot Discord External Site'
 
 [taxonomies]
   series = 'series'
