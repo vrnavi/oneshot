@@ -43,6 +43,9 @@ These commands are accessible to all users.
 `hex` [number]
 - Converts Base10 to Base16.
 
+`cotd`
+- Displays the current Color of The Day.
+
 ### Reminders
 
 `remind` [time] [text]
@@ -57,7 +60,7 @@ These commands are accessible to all users.
 `pingmod`
 - Pings the mods.
 
-`myuserlog`
+`mylogs`
 - Lists actions taken on you by Staff.
 
 ## Staff Commands
@@ -72,14 +75,11 @@ These commands are used by the Staff for moderation.
 `ban` [target] {reason}
 - Bans a user and messages them with the reason.
 
-`bandel` [target] [duration] {reason}
+`dban` [target] [duration] {reason}
 - Bans a user with a specified amount of days worth of messages deleted, messages them with the reason.
 
-`silentban` [target] {reason}
+`sban` [target] {reason}
 - Bans a user without messaging them.
-
-`hackban` [target] {reason}
-- Bans a user with their ID without messaging them.
 
 `massban` [targets]
 - Bans several users with their IDs without messaging them.
@@ -96,17 +96,22 @@ These commands are used by the Staff for moderation.
 `unmute` [target]
 - Unmutes a user. Command is nonfunctional. -->
 
-<!-- `approve` [target] {role (journal)}
-- Adds a role to a user, defaulting to Strange Journal.
-
-`revoke` [target] {role (journal)}
-- Removes a role from a user, defaulting to Strange Journal. -->
-
 `purge` [limit] {channel (current)}
 - Clears a given number of messages.
 
 `warn` [target] {reason}
 - Warns a user.
+
+### Tosses
+`toss` [target]
+- Tosses a target, replacing all of their roles with one role.
+
+`untoss` [target]
+- Untosses a target, restoring their roles.
+
+`archive` [user]
+- When performed in the designated roleban channel, will archive the current channel.
+- When performed elsewhere, will search archives for a given user.
 
 ### Lockdown
 
@@ -116,6 +121,13 @@ These commands are used by the Staff for moderation.
 
 `unlock` {channel (current)}
 - Unlocks speaking. Defaults to the current channel.
+
+`lockdown` {channels (all)} ...
+- Mass lockdown's the entire server, preventing new users from talking.
+- May automatically trigger after mention spam.
+
+`unlockdown` {channels (all)} ...
+- Unlocks the entire server for everyone to speak in once more.
 
 ### Reactions
 
@@ -133,8 +145,6 @@ These commands are used by the Staff for moderation.
 `note` [target] {note}
 - Adds a note to a user.
 
-Add `id` to the end of either command to use an ID in the place of a mention.
-
 ### Watch
 
 `watch` [target] {note}
@@ -142,8 +152,6 @@ Add `id` to the end of either command to use an ID in the place of a mention.
 
 `unwatch` [target] {note}
 - Removes a user from watch, with a marker in their userlog.
-
-Add `id` to the end of either command to use an ID in the place of a mention.
 
 ### Timer
 
@@ -153,6 +161,11 @@ Add `id` to the end of either command to use an ID in the place of a mention.
 
 `listjobs`
 - List all timed jobs.
+
+### Raid Mode
+
+`raidmode` ["on"/"off"]
+- Toggles Raidmode, a feature to post all new users in the Staff channel.
 
 ### Puppet Features
 
