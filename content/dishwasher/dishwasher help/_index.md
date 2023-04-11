@@ -13,6 +13,18 @@ These commands are accessible to all users.
 
 ### Basic Features
 
+`about`
+- Tells you about the bot.
+
+`avy` [user (mention or ID), or "server"]
+- Returns an avatar.
+
+`color` [hex color code]
+- Shows an image of the color you specify.
+
+`info` [user (mention or ID), defaults to yourself]
+- Gets information on a user.
+
 `help`
 - Gives you a link to this page.
 
@@ -46,13 +58,35 @@ These commands are accessible to all users.
 `cotd`
 - Displays the current Color of The Day.
 
+`youtube`/`yt` [search term]
+- Searches youtube for a query.
+
+### Prefixes
+
+`prefixes`
+- Shows your currently active prefixes.
+
+`prefixes add` [prefix]
+- Adds a new prefix.
+
+`prefixes remove` [number]
+- Removes a prefix.
+
+### Timezone
+
+`timezone`/`tz` [timezone]
+- Sets your timezone. You can use [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) as reference.
+
+`timefor`/`tf` [member ID or mention]
+- Shows the timezone for you, or someone else.
+
 ### Reminders
 
 `remind` [time] [text]
 - Reminds you about something in DMs.
 - Use "number then unit" format, such as *5s*, which is the minimum.
 
-`remindlist`
+`reminders`
 - Lists your reminders.
 
 ### Server Specific
@@ -62,6 +96,12 @@ These commands are accessible to all users.
 
 `mylogs`
 - Lists actions taken on you by Staff.
+
+`staff`
+- Shows the currently active Staff members.
+
+`cotd`
+- Shows the current Color of The Day.
 
 ## Staff Commands
 
@@ -187,3 +227,6 @@ These commands are used by the Staff for moderation.
 
 `speak` [channel] [text]
 - Repeats some text in a given channel.
+
+`typing` [duration]
+- Puts a "Bot is typing..." in chat for a period of time.
