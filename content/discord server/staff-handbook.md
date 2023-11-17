@@ -48,7 +48,7 @@ Robohex is our ModMail bot. Youll see the tickets come up in `📫 Console Input
 
 ### Watcher
 
-Watcher handles the slowmode for the public chats. All you'll need to know wih Watcher is that you can use `/settings` to view a channel's sensitivity settings, and `/set sensitivity` to set the sensitivity.
+Watcher handles the slowmode for the public chats. All you'll need to know with Watcher is that you can use `/settings` to view a channel's sensitivity settings, and `/set sensitivity` to set the sensitivity.
 
 ## How To:
 
