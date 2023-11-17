@@ -96,7 +96,7 @@ Dishwasher has many different commands to ban a user. Here's a quick rundown of 
 
 ### Raids
 
-In the event of a raid, __do not panic!__ Ping `@Staff` in `#tower` to notify everyone, and use `pls raidmode on` to enable `@Dishwasher`'s raid mode, postting every new user to `#tower`.
+In the event of a raid, __do not panic!__ Ping `@Staff` in `#tower` to notify everyone, and use `pls raidmode on` to enable `@Dishwasher`'s raid mode, posting every new user to `#tower`.
 
 Once done, do your best alongside the other Staff members to ban every user involved in the raid as immediately as you can. Do not worry about proper procedure when handling raids, focus on stemming the tide as soon as you can! Take advantage of other Dishwasher commands, such as `pls lock` in the event that they are spamming public chats, and `pls massban` to ban many at the same time.
 
@@ -168,7 +168,7 @@ For example, `pls purge 50 #barrens` will purge 50 messages from `#barrens`.
 
 You may also make `purge` more specific, by adding a modifier between the number of messages, and the command itself. Here are some modifiers:
 - `bots` - This will only purge bots.
-- `from` - This will purge bots from a certain user. You'll have to specify the user afterwards. For example, `pls purge from @renavi 10 #old-factory`.
+- `from` - This will purge messages from a certain user. You'll have to specify the user afterwards. For example, `pls purge from @renavi 10 #old-factory`.
 - `with` - This will purge messages with a certain string. If you are using spaces, you must enclose the string in quotes. For example, `pls purge with "this is a test" 20 #old-factory`.
 - `emotes` - This will purge messages with emotes.
 - `embeds` - This will purge messages with embeds, including stickers.
