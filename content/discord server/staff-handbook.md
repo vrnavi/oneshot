@@ -94,6 +94,16 @@ Dishwasher has many different commands to ban a user. Here's a quick rundown of 
 - `pls sban` will ban a user without DMing them anything.
 - `pls massban` will ban a list of users, **separated by spaces**. The bot will not convert newlines.
 
+### Raids
+
+In the event of a raid, __do not panic!__ Ping `@Staff` in `#tower` to notify everyone, and use `pls raidmode on` to enable `@Dishwasher`'s raid mode, postting every new user to `#tower`.
+
+Once done, do your best alongside the other Staff members to ban every user involved in the raid as immediately as you can. Do not worry about proper procedure when handling raids, focus on stemming the tide as soon as you can! Take advantage of other Dishwasher commands, such as `pls lock` in the event that they are spamming public chats, and `pls massban` to ban many at the same time.
+
+Be careful not to confuse regular users with raiders! During a raid, many users will pop into the chat wondering what's going on. Use `pls lock` to your advantage here. You may also have to remind users to not pop in and ask what's going on during a raid, as that will lead to more confusion.
+
+Do your best in this scenario!
+
 ### ModMail
 
 To handle modmails, you'll need to be familar with `@Robohex`'s commands.
@@ -106,8 +116,8 @@ Here's a brief overview of Robohex commands that you can use in a thread.
 - `>ar` will do as the above, but anonymously.
 - `>close` will close the thread. Adding `-s` will do so silently, without notifying the user. Adding a time (such as 30m, 30s, 30h, etc.) will delay a close to a specified delay.
 - `>alert` will alert you to the next post from the user.
-- `>edit` with a number will allow you to edit a message.
-- `>delete` with a number will allow you to delete a message.
+- `>edit` with the number of the message provided by `@Robohex` will allow you to edit a message.
+- `>delete` with the number of the message provided by `@Robohex` will allow you to delete a message.
 - `>logs` with an ID will show you previous modmail logs with the user.
 - `>block` with an ID will block a user from using the bot. Adding a time (as in close) will prevent them from using the bot for a specified time.
 - `>unblock` reverses the above.
