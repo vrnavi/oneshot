@@ -18,7 +18,7 @@ Once you have that done, consider making yourself a personal role (at the bottom
 ## Staff Guidelines
 
 First and foremost, here are some guidelines that all Staff are expected to uphold while Staffing.
-1. Be respectful to the users. You may be in a position of power, but you are still a member of the community, and should engage with the communiy as such.
+1. Be respectful to the users. You may be in a position of power, but you are still a member of the community, and should engage with the community as such.
 2. Take breaks, but don't go missing. Everyone needs breaks sometimes, however things can get a bit confusing if there are one or more members of the Staff team who are part of the team, but don't show up. If you need an extended break, please use `pls modtoggle`.
 3. Don't drown in your moderation responsibilities. Remember, you're a Staff member! Feel free to contribute in `#tower` for ways to improve the server, concerns about user behavior, etcetera. Users might get scared of a Staff member that only deals with moderation!
 4. Work with the team, but use your judgment. There are times in which you might have to handle a situation entirely by yourself. In that case, use your best judgment when handling the situation. You can also ping `@Staff` in `#tower` as well, if you need help! And if you know of a previous example, use that! If you're working with other Staff in handling a situation, try not to dominate the conversation! Remember that you're working as a team.
@@ -48,7 +48,7 @@ Robohex is our ModMail bot. Youll see the tickets come up in `📫 Console Input
 
 ### Watcher
 
-Watcher handles the slowmode for the public chats. All you'll need to know wih Watcher is that you can use `/settings` to view a channel's sensitivity settings, and `/se sensitivity` to set the sensitivity.
+Watcher handles the slowmode for the public chats. All you'll need to know wih Watcher is that you can use `/settings` to view a channel's sensitivity settings, and `/set sensitivity` to set the sensitivity.
 
 ## How To:
 
@@ -104,7 +104,7 @@ Here's a brief overview of Robohex commands that you can use in a thread.
 
 - `>r` will reply, sending a message back to the user.
 - `>ar` will do as the above, but anonymously.
-- `>close` will close the thread. Adding `-s` will do so silently, withou notifying the user. Adding a time (such as 30m, 30s, 30h, etc.) will delay a close to a specified delay.
+- `>close` will close the thread. Adding `-s` will do so silently, without notifying the user. Adding a time (such as 30m, 30s, 30h, etc.) will delay a close to a specified delay.
 - `>alert` will alert you to the next post from the user.
 - `>edit` with a number will allow you to edit a message.
 - `>delete` with a number will allow you to delete a message.
