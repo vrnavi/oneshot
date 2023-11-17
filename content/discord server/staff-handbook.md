@@ -158,7 +158,7 @@ For example, `pls purge 50 #barrens` will purge 50 messages from `#barrens`.
 
 You may also make `purge` more specific, by adding a modifier between the number of messages, and the command itself. Here are some modifiers:
 - `bots` - This will only purge bots.
-- `from` - This will purge bots from a certain user. You'll have to specify the user afterwards. For example, `pls purge @renavi 10 #old-factory`.
+- `from` - This will purge bots from a certain user. You'll have to specify the user afterwards. For example, `pls purge from @renavi 10 #old-factory`.
 - `with` - This will purge messages with a certain string. If you are using spaces, you must enclose the string in quotes. For example, `pls purge with "this is a test" 20 #old-factory`.
 - `emotes` - This will purge messages with emotes.
 - `embeds` - This will purge messages with embeds, including stickers.
