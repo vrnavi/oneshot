@@ -14,4 +14,4 @@ Ban appeals are handled on a case by case basis, at our discretion. For an appea
 
 After a user is unbanned on appeal, they have an "appeal warning". This voids all previous warnings and lasts for 30 days.
 
-To start an appeal, use the following link: http://os.whistler.page/appeal
+To start an appeal, use the following link: http://os.sysware.plus/appeal
